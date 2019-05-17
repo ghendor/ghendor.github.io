@@ -1,9 +1,10 @@
 body {
   font-family: 'Merriweather', serif;
+  margin-bottom: 250px;
 }
 
 header {
-  padding: 200px 0 200px;
+  padding: 334px 0 334px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/May-2015-Graz.jpg");
   height: 50%;
   background-position: center;
